@@ -8,7 +8,6 @@
 
 #import "BurstlyLoggerConstants.h"
 
-
 @interface BurstlyAdUtils: NSObject
 
 + (NSString*)version;
